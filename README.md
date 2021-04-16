@@ -16,6 +16,4 @@ Here are some ideas to get you started:
 -->
 
 
-![Expand](https://user-images.githubusercontent.com/7900087/115068871-afbc1c80-9ea7-11eb-9765-21ceaf2fe19e.gif)
-
 
