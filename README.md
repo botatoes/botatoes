@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Bo. 
+My name is Bo 🙃
 
 <!--
 **botatoes/botatoes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
