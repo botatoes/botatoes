@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-Finally got my account back lawl. 
+Low key don't know what I'm doing.
